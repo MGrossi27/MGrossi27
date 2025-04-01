@@ -22,7 +22,7 @@ jobs:
           snake_color: "#39ff14"
           background_color: "#0d1117"
           grid_color: "#161b22"
-          color_dark: "#c084f5"
+          color_dark: "#1b1f23"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
