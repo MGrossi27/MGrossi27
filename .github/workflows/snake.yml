@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Gerar animação da cobrinha
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           config_file: ./snake-config.json
