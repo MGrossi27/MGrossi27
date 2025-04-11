@@ -39,7 +39,7 @@
 Atualmente focado em:
 - Desenvolver mais projetos com Flask e Vue.js  
 - Aprimorar estrutura de APIs REST  
-- Melhorar design de interfaces e usabilidade
+- Desenvolvendo aplicativo usando Reactive native para personal
 
 ---
 
