@@ -7,8 +7,8 @@
 
 ## 💡 Tecnologias que uso ou estou estudando:
 
-- 💻 **Linguagens**: Python | C++ | Java | PHP | HTML/CSS | JavaScript  
-- 🔧 **Ferramentas**: Git | Linux | VS Code | Postman  
+- 💻 **Linguagens**: Python | C++ | Java | PHP | HTML/CSS | JavaScript | Reactive Native |
+- 🔧 **Ferramentas**: Git | Linux | VS Code | Postman | PostGre 
 - 🧠 **Conhecimentos**: Algoritmos | Estruturas de dados | Sistemas Distribuídos  
 - 🌐 **Frameworks & Libs**: Flask | Vue.js
 
