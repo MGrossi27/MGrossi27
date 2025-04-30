@@ -68,3 +68,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MGrossi27&show_icons=true&theme=github_dark" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGrossi27&layout=compact&theme=github_dark" />
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/MGrossi27/MGrossi27/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
