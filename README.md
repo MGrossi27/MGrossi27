@@ -70,7 +70,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/MGrossi27/MGrossi27/blob/output/github-contribution-grid-snake.svg" />
-</p>
+🐍🐍
+ ![Snake animation](https://github.com/MGrossi27/MGrossi27/blob/output/github-snake-dark.svg)
+ 
 
