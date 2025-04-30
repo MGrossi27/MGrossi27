@@ -70,7 +70,6 @@
 </p>
 
 
-🐍🐍
  ![Snake animation](https://github.com/MGrossi27/MGrossi27/blob/output/github-snake-dark.svg)
  
 
