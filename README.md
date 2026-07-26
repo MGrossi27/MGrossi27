@@ -15,11 +15,10 @@
   <tr>
     <td width="60%">
       <p align="left">
-       👋🏻 Olá! Sou Michael Grossi, estudante de Ciência da Computação pela Estácio. Sou apaixonado por boxe e tecnologia.<br><br>
-        💻 Tenho foco em desenvolvimento FrontEnd, aplicações e manutenção de servidores.<br><br>
-        🧠 Apaixonado por resolver problemas reais com código limpo, lógica eficiente e soluções escaláveis.<br><br>
-        ✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.<br><br>
-        👨🏻‍💻 Atualmente trabalhando em projetos que combinam dados, React e performance.
+        Olá! Sou Michael Grossi, estudante de Ciência da Computação pela Estácio. Sou apaixonado por boxe e tecnologia.<br><br>
+        Tenho foco em desenvolvimento FrontEnd, aplicações e manutenção de servidores.<br><br>
+        Disposto a resolver problemas reais com código limpo, lógica eficiente e soluções escaláveis.<br><br>
+        Atualmente trabalhando em projetos que combinam dados, React e performance.
       </p>
     </td>
     <td>
